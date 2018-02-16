@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ * Created by:William Outhwaite
+ * Created on: 16, February, 2018
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #8 - Moving Cat
+ * This program displays cats in different poses. 
+*/using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
