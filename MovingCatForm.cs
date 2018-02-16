@@ -32,5 +32,12 @@ namespace MovingCatWillO
             this.picCat.Image = Properties.Resources.cat2;
 
         }
+
+        private void mniExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+
+
+        }
     }
 }

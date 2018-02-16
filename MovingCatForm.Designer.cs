@@ -91,6 +91,7 @@
             this.mniExit.Name = "mniExit";
             this.mniExit.Size = new System.Drawing.Size(152, 22);
             this.mniExit.Text = "Exit";
+            this.mniExit.Click += new System.EventHandler(this.mniExit_Click);
             // 
             // mniCat1
             // 
