@@ -16,5 +16,21 @@ namespace MovingCatWillO
         {
             InitializeComponent();
         }
+
+        private void mniCat1_Click(object sender, EventArgs e)
+        {
+            this.picCat.Image = Properties.Resources.cat1;
+        }
+
+        private void picCat_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void mniCat2_Click(object sender, EventArgs e)
+        {
+            this.picCat.Image = Properties.Resources.cat2;
+
+        }
     }
 }
